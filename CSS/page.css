@@ -1,0 +1,19 @@
+body {
+    color: aliceblue;
+    font-style: normal;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #303030;
+}
+
+#soggyCat {
+    border: 3px solid #ffffff;
+    border-radius: 10px 10px 10px 10px;
+    width: 20%;
+    height: 20%;
+}
+
+#soggyCat:hover {
+    width: 30%;
+    height: 30%;
+}
