@@ -17,3 +17,15 @@ body {
     width: 30%;
     height: 30%;
 }
+
+.box1 {
+    background-color: chocolate;
+    display: inline-block;
+    width: 100px;
+}
+
+.box2 {
+    background-color: chocolate;
+    display: inline-block;
+    width: 200px;
+}
