@@ -6,26 +6,75 @@ body {
     background-color: #303030;
 }
 
-#soggyCat {
-    border: 3px solid #ffffff;
+a {
+    color: rgb(204, 50, 189);
+}
+
+.cat {
+    border: 3px solid #55ff00;
     border-radius: 10px 10px 10px 10px;
     width: 20%;
     height: 20%;
 }
 
-#soggyCat:hover {
+.cat:hover {
     width: 30%;
     height: 30%;
 }
 
 .box1 {
-    background-color: chocolate;
+    background: chocolate;
     display: inline-block;
     width: 100px;
 }
 
 .box2 {
-    background-color: chocolate;
+    background: chocolate;
     display: inline-block;
     width: 200px;
+}
+
+.normal {
+    width: 100px;
+    height: 100px;
+    background: green;
+    display: inline-block;
+}
+
+.absolute1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    display: inline-block;
+}
+
+.absolute2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 300px;
+    background: red;
+    display: inline-block;
+}
+
+.relative {
+    position: relative;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    display: inline-block;
+}
+
+#fixedCat {
+    position: fixed;
+    top: 2%;
+    right: 3%;
+    text-align: center;
+}
+
+#staringCat {
+    width: 60%;
+    border: 3px solid #55ff00;
+    border-radius: 5px;
 }
