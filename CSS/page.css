@@ -66,6 +66,23 @@ a {
     display: inline-block;
 }
 
+.relative2 {
+    position: relative;
+    left: -40px;
+    width: 400px;
+    height: 100px;
+    background: red;
+    display: inline-block;
+    z-index: -1;
+}
+
+.normal2 {
+    width: 100px;
+    height: 100px;
+    background: green;
+    display: inline-block;
+}
+
 #fixedCat {
     position: fixed;
     top: 2%;
