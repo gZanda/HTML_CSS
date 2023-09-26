@@ -60,7 +60,7 @@ a {
 
 .relative {
     position: relative;
-    left: 50px;
+    left: 250px;
     width: 100px;
     height: 100px;
     background: red;
@@ -70,8 +70,9 @@ a {
 .relative2 {
     position: relative;
     left: -40px;
-    width: 400px;
-    height: 100px;
+    width: 180px;
+    height: 150px;
+    bottom: 10px;
     background: red;
     display: inline-block;
     z-index: -1;
