@@ -3,7 +3,7 @@ body {
     font-style: normal;
     font-weight: lighter;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #303030;
+    background: #303030;
 }
 
 a {
@@ -13,14 +13,12 @@ a {
 .cat {
     border: 3px solid #55ff00;
     border-radius: 10px 10px 10px 10px;
-    width: 20%;
-    height: 20%;
+    width: 10%;
     transition: 0.5s ease;
 }
 
 .cat:hover {
-    width: 30%;
-    height: 30%;
+    width: 15%;
 }
 
 .box1 {
