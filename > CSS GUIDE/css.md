@@ -2,7 +2,7 @@
 
 ## 📌 Add CSS to HTML
 
--   Just use the **\*\*\*\***link**\*\*\*\*** tag in the \***\*\*\*\*\***head\***\*\*\*\*\*** with the CSS fille
+-   Just use the link tag in the head with the CSS fille
 
 ```html
 <link rel="stylesheet" href="/CSS/page.css" />
@@ -59,8 +59,8 @@ div button {
 ## 📌 Box Model
 
 -   Padding —> First Background ( Internal distance TILL CONTENT )
--   Border —> Can be **\*\***\*\***\*\***COLORED**\*\***\*\***\*\*** and format can \***\*\*\*\*\*\*\***CHANGE\***\*\*\*\*\*\*\***
--   Margin —> Transparent and Determines the \***\*\*\*\*\***SPACE\***\*\*\*\*\*** till other components
+-   Border —> Can be COLORED and format can CHANGE
+-   Margin —> Transparent and Determines the SPACE till other components
 
 ![Untitled](Images/Untitled.png)
 
@@ -102,7 +102,7 @@ body {
 
 ## 📌 Display
 
--   Display \***\*\*\*\*\***Block\***\*\*\*\*\*** - Fill all the horizontal space
+-   Display Block - Fill all the horizontal space
 
 ```css
 .box {
@@ -113,7 +113,7 @@ body {
 
 ![Untitled](Images/Untitled%201.png)
 
--   Display \***\*\*\*\*\*\*\***Inline\***\*\*\*\*\*\*\*** - The size is the exact content size
+-   Display Inline - The size is the exact content size
 
 ```css
 .box {
@@ -124,7 +124,7 @@ body {
 
 ![Untitled](Images/Untitled%202.png)
 
--   Display \***\*\*\*\*\***\*\*\*\*\***\*\*\*\*\***Inline-Block\***\*\*\*\*\***\*\*\*\*\***\*\*\*\*\*** - The size is just the exact content size, BUT you can modify it to fill more
+-   Display Inline-Block - The size is just the exact content size, BUT you can modify it to fill more
 
 ```css
 .box1 {
@@ -145,12 +145,12 @@ body {
 ## 📌 Position
 
 -   Static - Normal and Default flux position
-    -   **Can’t be modified** ( top, left, z-index, etc )
--   Absolute - Related to the closest \***\*\*\*\*\*\*\***father\***\*\*\*\*\*\*\***
+    -   Can’t be modified ( top, left, z-index, etc )
+-   Absolute - Related to the closest father
     -   Doesn’t create any aditional space on the page
     -   Doesn’t follow the normal flux of the site
-    -   The other elements will just \***\*\*\*\*\*\*\***ignore\***\*\*\*\*\*\*\*** the position of the \***\*\*\*\*\*\*\***absolute\***\*\*\*\*\*\*\*** ones ( ignore them )
-    -   With **\*\***\*\*\*\***\*\***absolute**\*\***\*\*\*\***\*\*** you can modify the position on the page ( left, right, top, bottom )
+    -   The other elements will just ignore the position of the absolute ones ( ignore them )
+    -   With absolute you can modify the position on the page ( left, right, top, bottom )
 
 ```html
 <div class="normal"></div>
@@ -184,9 +184,9 @@ body {
 ![Untitled](Images/Untitled%204.png)
 
 -   Relative - Related to the normal flux of the site ( related to static )
-    -   When you make position changes, the start point is the \***\*\*\*\*\*\*\***static\***\*\*\*\*\*\*\*** position
+    -   When you make position changes, the start point is the static position
     -   Does create aditional space on the page ( and it really is in the new space )
-    -   The other elements will respect like if the element was \***\*\*\*\*\*\*\***static\***\*\*\*\*\*\*\***
+    -   The other elements will respect like if the element was static
 
 ```html
 <div class="normal"></div>
@@ -214,7 +214,7 @@ body {
 
 ![Untitled](Images/Untitled%205.png)
 
--   Fixed - Fixed \***\*\*\*\*\***\*\*\***\*\*\*\*\***in the page\***\*\*\*\*\***\*\*\***\*\*\*\*\*** ( always the same position )
+-   Fixed - Fixed in the page ( always the same position )
     -   It ignores ALL other elements ( and them ignore it too )
 
 ```
@@ -243,7 +243,7 @@ body {
 
 ## 📌 Z-index
 
--   Defines which elements will be on the \***\*\*\*\*\***front\***\*\*\*\*\*** or in the **\*\*\*\***back**\*\*\*\***
+-   Defines which elements will be on the front or in the back
 -   Greater number == In front
 
 ```html
@@ -339,12 +339,12 @@ body {
 
 ## 📌 Animations and Transitions
 
--   Basically just set the **\*\*\*\***\*\*\*\***\*\*\*\***transition**\*\*\*\***\*\*\*\***\*\*\*\*** element and a **\*\*\*\***\*\*\*\***\*\*\*\***pseudo-class**\*\*\*\***\*\*\*\***\*\*\*\***
+-   Basically just set the transition element and a pseudo-class
 -   1° - Set the basic CSS
 -   2° - Set the modified form
 
 ```html
-<img *src*="Soggy Cat.jpg" *class*="cat" />
+<img src="Soggy Cat.jpg" class="cat" />
 ```
 
 ```css
@@ -365,7 +365,7 @@ body {
 ## 📌 Flexbox
 
 -   It’s a way to automate the process of displaying elements
--   Flexbox works using **\*\*\*\***\*\***\*\*\*\***flex-container**\*\*\*\***\*\***\*\*\*\*** ( Parent ) and **\*\*\*\***\*\*\*\***\*\*\*\***flex-items**\*\*\*\***\*\*\*\***\*\*\*\*** ( Children )
+-   Flexbox works using flex-container ( Parent ) and flex-items ( Children )
 
 ![Untitled](Images/Untitled%209.png)
 
@@ -535,7 +535,7 @@ body {
 
 ## 📌 Sources:
 
-[https://github.com/mathh95/css4noobs](https://github.com/mathh95/css4noobs)
+https://github.com/mathh95/css4noobs
 
 [CSS Unit Guide: CSS em, rem, vh, vw, and more, Explained](https://www.freecodecamp.org/news/css-unit-guide/)
 
