@@ -4,7 +4,7 @@
 
 -   HTML works in BLOCKS - Blocks create a new line and fill all the space
 -   Tags Atributes - The values inside the Tag Opening
--   Always Wrapps tags insider a container - Like <div>
+-   Always Wrapps tags insider a container - Like `<div>`
 
 ## 📌 Main Tags:
 
