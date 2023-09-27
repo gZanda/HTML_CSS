@@ -1,6 +1,6 @@
 # CSS
 
-### 📌 Add CSS to HTML
+## 📌 Add CSS to HTML
 
 -   Just use the link tag in the head with the CSS fille
 
@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="/CSS/page.css" />
 ```
 
-### 📌 Selectors
+## 📌 Selectors
 
 -   Tag Selectors
 
@@ -56,7 +56,7 @@ div button {
 }
 ```
 
-### 📌 Box Model
+## 📌 Box Model
 
 -   Padding —> First Background ( Internal distance TILL CONTENT )
 -   Border —> Can be COLORED and format can CHANGE
@@ -64,7 +64,7 @@ div button {
 
 ![Untitled](Images/Untitled.png)
 
-### 📌 Border
+## 📌 Border
 
 -   How to modify the border
 
@@ -86,7 +86,7 @@ div button {
 }
 ```
 
-### 📌 Text
+## 📌 Text
 
 -   Style the font, color, weight, etc
 
@@ -100,7 +100,7 @@ body {
 }
 ```
 
-### 📌 Display
+## 📌 Display
 
 -   Display Block - Fill all the horizontal space
 
@@ -142,7 +142,7 @@ body {
 
 ![Untitled](Images/Untitled%203.png)
 
-### 📌 Position
+## 📌 Position
 
 -   Static - Normal and Default flux position
     -   Can’t be modified ( top, left, z-index, etc )
@@ -241,7 +241,7 @@ body {
 
 ![Untitled](Images/Untitled%206.png)
 
-### 📌 Z-index
+## 📌 Z-index
 
 -   Defines which elements will be on the front or in the back
 -   Greater number == In front
@@ -272,7 +272,7 @@ body {
 
 ![Untitled](Images/Untitled%207.png)
 
-### 📌 Measure Units
+## 📌 Measure Units
 
 -   Px - Pixels
 -   % - Relate to the size of the container
@@ -337,7 +337,7 @@ body {
 
 ![Untitled](Images/Untitled%208.png)
 
-### 📌 Animations and Transitions
+## 📌 Animations and Transitions
 
 -   Basically just set the transition element and a pseudo-class
 -   1° - Set the basic CSS
@@ -362,14 +362,14 @@ body {
 }
 ```
 
-### 📌 Flexbox
+## 📌 Flexbox
 
 -   It’s a way to automate the process of displaying elements
 -   Flexbox works using flex-container ( Parent ) and flex-items ( Children )
 
 ![Untitled](Images/Untitled%209.png)
 
-### 📌 Flexbox - Container Properties
+## 📌 Flexbox - Container Properties
 
 -   Display
 
@@ -436,7 +436,7 @@ body {
 
 ![Untitled](Images/Untitled%2014.png)
 
-### 📌 Flexbox - Item Properties
+## 📌 Flexbox - Item Properties
 
 -   Align-Self - Allows a single flex-item to align itself a part of the default alignment
 
@@ -466,7 +466,7 @@ body {
 }
 ```
 
-### 📌 A Flexbox Example:
+## 📌 A Flexbox Example:
 
 ```html
 <h2>Basic Flexbox Demonstration:</h2>
@@ -533,7 +533,7 @@ body {
 
 ![Untitled](Images/Untitled%2020.png)
 
-### 📌 Sources:
+## 📌 Sources:
 
 https://github.com/mathh95/css4noobs
 
