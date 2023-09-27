@@ -4,7 +4,7 @@
 
 ## 📌 About
 
-Repository made to register my HTML and CSS learning ( and maybe help someone ツ ).
+Repository made to register my HTML and CSS learning ( and maybe help someone ).
 
 ## 📌 Guides
 
@@ -12,6 +12,6 @@ Repository made to register my HTML and CSS learning ( and maybe help someone �
 
 [💻​ CSS](/>%20CSS%20GUIDE/css.md)
 
-## 📌 Enjoy
+## 📌 Enjoy :3
 
 ![untitled](/Images/CatLike.jpg)
