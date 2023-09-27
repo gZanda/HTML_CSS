@@ -8,10 +8,10 @@
 
 ## 📌 Main Tags:
 
--   Title - <h1>
--   Text - <p>
--   Line Break - <br>
--   Link - <a> Intern Naviagation, External Pages, Downloads
+-   Title - `<h>`
+-   Text - `<p>`
+-   Line Break - `<br>`
+-   Link - `<a>` Intern Naviagation, External Pages, Downloads
 
 ```html
 <a href="https://youtu.be/dQw4w9WgXcQ?si=OYVLA20uN1oMahTt" target="_blank">
@@ -25,9 +25,9 @@
 <img *src*="Soggy Cat.jpg" /> <img src="pop-cat.gif" />
 ```
 
--   Container - <div> Wrapps all others tags inside it
--   Lists - <ul> Unordered Lists
--   Lists Item - <li> Element of the List ( row )
+-   Container - `<div>` Wrapps all others tags inside it
+-   Lists - `<ul>` Unordered Lists
+-   Lists Item - `<li>` Element of the List ( row )
 
 ```html
 **
@@ -40,9 +40,9 @@
 **
 ```
 
--   Forms - <forms> Wrapps Information that is going to be sent to the API
--   Buttons - <button> Action
--   Input - <input> Information Field for form
+-   Forms - `<forms>` Wrapps Information that is going to be sent to the API
+-   Buttons - `<button>` Action
+-   Input - `<input>` Information Field for form
 
 ```html
 <form action="">
@@ -52,10 +52,10 @@
 </form>
 ```
 
--   Table - <table> Table Definition
--   Table Header - <th> Headers
--   Table Row - <tr>
--   Table Data - <t> Cell
+-   Table - `<table>` Table Definition
+-   Table Header - `<th>` Headers
+-   Table Row - `<tr>`
+-   Table Data - `<t>` Cell
 
 ```html
 <table border="2">
@@ -84,4 +84,4 @@
 
 ## 📌 Source:
 
-[https://github.com/lucassoren/HTML4Noobs](https://github.com/lucassoren/HTML4Noobs)
+[ html4noobs | He4art ](https://github.com/lucassoren/HTML4Noobs)
