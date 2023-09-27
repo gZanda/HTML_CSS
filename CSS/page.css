@@ -140,8 +140,26 @@ a {
 }
 
 .flexItem {
-    padding: 5rem;
+    padding: 4rem;
     background: rgb(220, 200, 44);
     border-radius: 10px;
-    margin: 20px;
+    margin: 15px;
+}
+
+#flexContainer2 {
+    background: rgb(152, 93, 211);
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 3rem;
+    align-items: center;
+}
+
+.flexItem2 {
+    padding: 4rem;
+    background: rgb(220, 200, 44);
+    border-radius: 10px;
+    margin: 15px;
+    flex-grow: 1;
 }
