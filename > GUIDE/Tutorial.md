@@ -1,7 +1,5 @@
 # CSS
 
----
-
 ## 📌 Add CSS to HTML
 
 -   Just use the **\*\*\*\***link**\*\*\*\*** tag in the \***\*\*\*\*\***head\***\*\*\*\*\*** with the CSS fille
@@ -64,7 +62,7 @@ div button {
 -   Border —> Can be **\*\***\*\***\*\***COLORED**\*\***\*\***\*\*** and format can \***\*\*\*\*\*\*\***CHANGE\***\*\*\*\*\*\*\***
 -   Margin —> Transparent and Determines the \***\*\*\*\*\***SPACE\***\*\*\*\*\*** till other components
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled.png)
+![Untitled](Images/Untitled.png)
 
 ## 📌 Border
 
@@ -113,7 +111,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%201.png)
+![Untitled](Images/Untitled%201.png)
 
 -   Display \***\*\*\*\*\*\*\***Inline\***\*\*\*\*\*\*\*** - The size is the exact content size
 
@@ -124,9 +122,9 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%202.png)
+![Untitled](Images/Untitled%202.png)
 
--   Display ****\*\*****\*\*\*\*****\*\*****Inline-Block****\*\*****\*\*\*\*****\*\***** - The size is just the exact content size, BUT you can modify it to fill more
+-   Display \***\*\*\*\*\***\*\*\*\*\***\*\*\*\*\***Inline-Block\***\*\*\*\*\***\*\*\*\*\***\*\*\*\*\*** - The size is just the exact content size, BUT you can modify it to fill more
 
 ```css
 .box1 {
@@ -142,7 +140,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%203.png)
+![Untitled](Images/Untitled%203.png)
 
 ## 📌 Position
 
@@ -183,7 +181,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%204.png)
+![Untitled](Images/Untitled%204.png)
 
 -   Relative - Related to the normal flux of the site ( related to static )
     -   When you make position changes, the start point is the \***\*\*\*\*\*\*\***static\***\*\*\*\*\*\*\*** position
@@ -214,9 +212,9 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%205.png)
+![Untitled](Images/Untitled%205.png)
 
--   Fixed - Fixed ****\*\*****\*\*****\*\*****in the page****\*\*****\*\*****\*\***** ( always the same position )
+-   Fixed - Fixed \***\*\*\*\*\***\*\*\***\*\*\*\*\***in the page\***\*\*\*\*\***\*\*\***\*\*\*\*\*** ( always the same position )
     -   It ignores ALL other elements ( and them ignore it too )
 
 ```
@@ -241,7 +239,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%206.png)
+![Untitled](Images/Untitled%206.png)
 
 ## 📌 Z-index
 
@@ -272,7 +270,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%207.png)
+![Untitled](Images/Untitled%207.png)
 
 ## 📌 Measure Units
 
@@ -337,7 +335,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%208.png)
+![Untitled](Images/Untitled%208.png)
 
 ## 📌 Animations and Transitions
 
@@ -369,7 +367,7 @@ body {
 -   It’s a way to automate the process of displaying elements
 -   Flexbox works using **\*\*\*\***\*\***\*\*\*\***flex-container**\*\*\*\***\*\***\*\*\*\*** ( Parent ) and **\*\*\*\***\*\*\*\***\*\*\*\***flex-items**\*\*\*\***\*\*\*\***\*\*\*\*** ( Children )
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%209.png)
+![Untitled](Images/Untitled%209.png)
 
 ## 📌 Flexbox - Container Properties
 
@@ -390,7 +388,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2010.png)
+![Untitled](Images/Untitled%2010.png)
 
 -   Flex Wrap - Defines if the flex-elements can “broke line” to rearrange them-selves
     -   Default : NOWRAP
@@ -401,7 +399,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2011.png)
+![Untitled](Images/Untitled%2011.png)
 
 -   Jutify Content - Alignment along the Main Axis
     -   Default : FLEX-START
@@ -413,7 +411,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2012.png)
+![Untitled](Images/Untitled%2012.png)
 
 -   Align Items - Alignment along the Cross Axis
     -   Defult : STRETCH ( respects the max/min width )
@@ -424,7 +422,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2013.png)
+![Untitled](Images/Untitled%2013.png)
 
 -   Gap - Space between flex-items
 
@@ -436,7 +434,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2014.png)
+![Untitled](Images/Untitled%2014.png)
 
 ## 📌 Flexbox - Item Properties
 
@@ -448,7 +446,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2015.png)
+![Untitled](Images/Untitled%2015.png)
 
 -   Flex-Grow - A way to make a flex-item bigger than others
 
@@ -458,7 +456,7 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2016.png)
+![Untitled](Images/Untitled%2016.png)
 
 -   Flex-Shrink - A way to make a flex-item smaller than others
 
@@ -498,9 +496,9 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2017.png)
+![Untitled](Images/Untitled%2017.png)
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2018.png)
+![Untitled](Images/Untitled%2018.png)
 
 ```html
 <h2>More Flexbox Demonstration:</h2>
@@ -531,9 +529,9 @@ body {
 }
 ```
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2019.png)
+![Untitled](Images/Untitled%2019.png)
 
-![Untitled](CSS%20100d536af7d349b0adc1e9057e951e59/Untitled%2020.png)
+![Untitled](Images/Untitled%2020.png)
 
 ## 📌 Sources:
 
