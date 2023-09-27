@@ -1,4 +1,5 @@
 > By: Gabriel Zanda
+
 # 📚 HTML and CSS fundamentals
 
 ## 📌 About
@@ -7,5 +8,5 @@ Repository made to register my HTML and CSS learning ( and maybe help someone �
 
 ## 📌 Guides
 
-<h3>[💻​ HTML](> HTML GUIDE/html.md)</h3> 
-<h3>[💻​ CSS](contents/1.Introducao.md)</h3> 
+[💻​ HTML](/>%20HTML%20GUIDE/html.md)
+[💻​ CSS](/>%20CSS%20GUIDE/css.md)
